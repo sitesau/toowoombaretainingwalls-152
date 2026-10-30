@@ -1,0 +1,22 @@
+{
+  "wheel_id": 550,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-152",
+  "project": "retaining-wall-builders-toowoomba-pros-and-cons-eaf41a9d6f81fe5",
+  "parent_t1_ref": "toowoombaretainingwalls-011",
+  "node_role": "buffer",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining wall builders toowoomba pros and cons",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-toowoomba-pros-and-cons-eaf41a9d6f81fe5/",
+  "tier": "T2",
+  "writeback_nonce": "fc86b2fa0b5d3f4d",
+  "links": [
+    {
+      "target_url": "https://retaining-wall-builders-toowoomba-toowoombaretainingwall-e8847e.gitlab.io/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
